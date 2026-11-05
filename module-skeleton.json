@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-partners-and-portals-nuxt",
+  "capabilityKey": "planned:sap:partners-and-portals",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-sap-partners-and-portals-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/sap/nextjs/partners-and-portals.md",
+  "presentationPlan": "projects/sap/nuxt/partners-and-portals.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
